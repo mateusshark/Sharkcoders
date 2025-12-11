@@ -4,8 +4,8 @@ fonts {
 }
 nodes {
   position {
-    x: 335.0
-    y: 211.0
+    x: 118.0
+    y: 438.0
   }
   scale {
     x: 1.972722
@@ -19,6 +19,30 @@ nodes {
   text: "vidas: 3"
   font: "always_on_top"
   id: "vida"
+  inherit_alpha: true
+}
+nodes {
+  position {
+    x: 57.0
+    y: 318.0
+  }
+  rotation {
+    y: -35.319
+  }
+  scale {
+    x: 2.063532
+    y: 1.666667
+    z: 1.666667
+  }
+  size {
+    x: 200.0
+    y: 100.0
+  }
+  type: TYPE_TEXT
+  text: "Apanha a moeda!"
+  font: "always_on_top"
+  id: "moeda"
+  pivot: PIVOT_W
   inherit_alpha: true
 }
 material: "/builtins/materials/gui.material"

@@ -51,8 +51,8 @@ instances {
     y: 28.9654
   }
   scale3 {
-    x: 1.783392
-    y: 2.031753
+    x: 1.316738
+    y: 1.383778
     z: 3.086469
   }
 }
@@ -108,21 +108,21 @@ instances {
   id: "floor"
   prototype: "/main/floor.go"
   position {
-    x: 17.016157
-    y: 53.937172
+    x: 21.016157
+    y: 16.937172
   }
   scale3 {
-    x: 1.670632
-    y: 3.128652
-    z: 1.04
+    x: 1.25597
+    y: 1.079629
+    z: 0.818133
   }
 }
 instances {
   id: "interface"
   prototype: "/main/interface.go"
   position {
-    x: 7.335206
-    y: 44.11751
+    x: 59.335205
+    y: 35.11751
   }
   rotation {
     y: -0.08343751
