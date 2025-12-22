@@ -1,0 +1,13 @@
+images {
+  image: "/main/assets/enemy.png"
+}
+images {
+  image: "/main/assets/item.png"
+}
+images {
+  image: "/main/assets/floor.png"
+}
+images {
+  image: "/main/assets/player.png"
+}
+extrude_borders: 2

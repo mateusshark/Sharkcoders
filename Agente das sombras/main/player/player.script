@@ -1,0 +1,12 @@
+go.property("speed", 150)
+
+function init(self)
+	self.input = {
+		left = false,
+		right = false,
+		up = false,
+		down = false
+	}
+
+
+	self.vel = 
